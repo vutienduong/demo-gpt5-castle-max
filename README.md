@@ -58,5 +58,5 @@ npm run preview
 - All code is TypeScript; adjust `tsconfig.json` if you need different target settings.
 
 ## Demo
-<img width="1349" height="751" alt="Screenshot 2025-08-09 at 21 53 27" src="https://github.com/user-attachments/assets/bedf9fdd-c0be-4d64-9c43-fe1510f7b9a9" />
+<img width="1344" height="750" alt="Screenshot 2025-08-10 at 22 17 29" src="https://github.com/user-attachments/assets/2d4fcff7-07e2-40c5-bc57-ec954f9f6a11" />
 

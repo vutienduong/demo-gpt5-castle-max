@@ -56,3 +56,7 @@ npm run preview
 ## Notes
 - Uses imports from `three/examples/jsm/...` which Vite handles without extra config.
 - All code is TypeScript; adjust `tsconfig.json` if you need different target settings.
+
+## Demo
+<img width="1349" height="751" alt="Screenshot 2025-08-09 at 21 53 27" src="https://github.com/user-attachments/assets/bedf9fdd-c0be-4d64-9c43-fe1510f7b9a9" />
+
